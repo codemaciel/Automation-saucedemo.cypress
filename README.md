@@ -1,5 +1,7 @@
 ﻿# Automation-saucedemo.cypress
-site:  https://www.saucedemo.com/cart.html
+site:  https://www.saucedemo.com
+
+
 
 
 
